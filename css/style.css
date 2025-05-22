@@ -1,0 +1,6 @@
+body { font-family: -apple-system, sans-serif; padding: 16px; font-size: 14px; line-height: 1.5em; color: #333; background: white; }
+.container { max-width: 720px; margin: 0 auto; }
+h1 { font-size: 24px; margin-bottom: 2em; }
+h2 { font-size: 18px; margin-top: 2em; }
+li { margin: 8px auto; }
+a { color: #1677ff; text-decoration: none; }
